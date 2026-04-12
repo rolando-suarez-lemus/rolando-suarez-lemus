@@ -1,58 +1,78 @@
-Rolando Suárez Lemus
+# 🔧 Rolando Suárez Lemus
 
-Ingeniero mecánico trabajando en la convergencia entre gestión de activos, confiabilidad operacional y analítica de datos.
-
----
-
-Enfoque
-
-Mi trabajo está centrado en diseñar sistemas que mejoren la toma de decisiones en mantenimiento industrial.
-
-No desde la intuición, sino desde:
-
-- criticidad de activos
-- análisis de fallas
-- datos operacionales
-- impacto en costo y disponibilidad
+Ingeniero mecánico enfocado en el diseño de **sistemas de decisión para mantenimiento industrial**, integrando gestión de activos, confiabilidad operacional y analítica de datos.
 
 ---
 
-Qué hago
+## Enfoque
 
-- Diseño estrategias de mantenimiento basadas en RCM
-- Analizo comportamiento de activos usando datos
-- Construyo indicadores para control operacional
-- Automatizo procesos de análisis y seguimiento
+Trabajo en transformar datos operacionales en decisiones estructuradas que impacten directamente en:
 
----
+- disponibilidad de activos  
+- riesgo operacional  
+- costos de mantenimiento  
 
-Intereses actuales
+Con un enfoque mediante modelos basados en:
 
-- confiabilidad basada en datos
-- automatización de decisiones operacionales
-- modelos predictivos de fallas
-- integración entre ingeniería y software
-
----
-
-Este GitHub
-
-Uso este espacio para construir y documentar:
-
-- análisis de fallas y mantenimiento
-- herramientas de soporte a decisiones
-- dashboards y métricas operacionales
-- automatización de procesos de ingeniería
+- criticidad de activos  
+- modos de falla (RCM)  
+- comportamiento histórico  
+- impacto económico de las decisiones  
 
 ---
 
-Stack
+## Qué hago
 
-Python · Power BI · GMAOs 
+- Diseño sistemas de priorización de mantenimiento basados en riesgo  
+- Desarrollo modelos de análisis de fallas y comportamiento de activos  
+- Construyo indicadores para control y toma de decisiones  
+- Automatizo procesos de análisis en entornos operacionales complejos  
 
 ---
 
-Contacto
+## Líneas de trabajo actuales
 
-LinkedIn: https://linkedin.com/in/rolando-suarez-lemus
-Email: resl2994@gmail.com
+- mantenimiento basado en riesgo (Risk-Based Maintenance)  
+- modelos predictivos de fallas  
+- optimización de estrategias de mantenimiento  
+- sistemas de soporte a decisiones (DSS)  
+- aplicación en entornos industriales y acuícolas  
+
+---
+
+## Este GitHub
+
+Este repositorio documenta el desarrollo de **sistemas aplicados a la toma de decisiones en mantenimiento**, incluyendo:
+
+- motores de priorización de activos  
+- modelos de riesgo operacional  
+- simulaciones de estrategias de mantenimiento  
+- dashboards orientados a decisiones  
+
+Cada proyecto está enfocado en **traducir datos en acciones con impacto operativo**.
+
+---
+
+## Stack
+
+Python · Power BI · SQL · GMAO (Fracttal One, Synchroteam, entre otros)
+
+---
+
+## Proyectos destacados
+
+- **Asset Risk Prioritization Engine**  
+  Sistema de priorización de activos basado en riesgo operacional.
+
+- **Predictive Maintenance Simulator**  
+  Comparación de estrategias de mantenimiento bajo incertidumbre.
+
+- **Aquaculture Operational DSS**  
+  Modelo de riesgo aplicado a piscicultura.
+
+---
+
+## Contacto
+
+- LinkedIn: https://linkedin.com/in/rolando-suarez-lemus  
+- Email: resl2994@gmail.com
