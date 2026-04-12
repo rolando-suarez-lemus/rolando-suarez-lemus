@@ -1,16 +1,58 @@
-## Hi there 👋
+Rolando Suárez
 
-<!--
-**rolando-suarez-lemus/rolando-suarez-lemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero mecánico trabajando en la convergencia entre gestión de activos, confiabilidad operacional y analítica de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enfoque
+
+Mi trabajo está centrado en diseñar sistemas que mejoren la toma de decisiones en mantenimiento industrial.
+
+No desde la intuición, sino desde:
+
+- criticidad de activos
+- análisis de fallas
+- datos operacionales
+- impacto en costo y disponibilidad
+
+---
+
+Qué hago
+
+- Diseño estrategias de mantenimiento basadas en RCM
+- Analizo comportamiento de activos usando datos
+- Construyo indicadores para control operacional
+- Automatizo procesos de análisis y seguimiento
+
+---
+
+Intereses actuales
+
+- confiabilidad basada en datos
+- automatización de decisiones operacionales
+- modelos predictivos de fallas
+- integración entre ingeniería y software
+
+---
+
+Este GitHub
+
+Uso este espacio para construir y documentar:
+
+- análisis de fallas y mantenimiento
+- herramientas de soporte a decisiones
+- dashboards y métricas operacionales
+- automatización de procesos de ingeniería
+
+---
+
+Stack
+
+Python · Power BI · GMAO (Fracttal)
+
+---
+
+Contacto
+
+LinkedIn: https://linkedin.com/in/rolando-suarez-lemus
+Email: resl2994@gmail.com
