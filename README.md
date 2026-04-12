@@ -1,4 +1,4 @@
-Rolando Suárez
+Rolando Suárez Lemus
 
 Ingeniero mecánico trabajando en la convergencia entre gestión de activos, confiabilidad operacional y analítica de datos.
 
@@ -48,7 +48,7 @@ Uso este espacio para construir y documentar:
 
 Stack
 
-Python · Power BI · GMAO (Fracttal)
+Python · Power BI · GMAOs 
 
 ---
 
