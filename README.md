@@ -1,5 +1,3 @@
-# Operational Decision Systems for Industrial Maintenance
-
 ## Rolando Suárez Lemus
 
 Ingeniero mecánico especializado en el diseño de sistemas de decisión para mantenimiento industrial y gestión de activos físicos, integrando confiabilidad, riesgo operacional y optimización económica.
