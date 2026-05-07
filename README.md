@@ -1,82 +1,103 @@
-# 🔧 Rolando Suárez Lemus
+# Operational Decision Systems for Industrial Maintenance
 
-Ingeniero mecánico enfocado en el diseño de **sistemas de soporte a decisiones (DSS) para mantenimiento industrial**, integrando gestión de activos, confiabilidad operacional y analítica de datos.
+## Rolando Suárez Lemus
+
+Ingeniero mecánico especializado en el diseño de sistemas de decisión para mantenimiento industrial y gestión de activos físicos, integrando confiabilidad, riesgo operacional y optimización económica.
 
 ---
 
 ## Enfoque
 
-Trabajo en transformar datos operacionales en **decisiones estructuradas con impacto económico**, que optimicen:
+Las operaciones industriales complejas no fallan únicamente por problemas técnicos, sino por decisiones inconsistentes bajo incertidumbre.
 
-- disponibilidad de activos  
-- riesgo operacional  
-- costos de mantenimiento  
+Este repositorio documenta el desarrollo de arquitecturas de decisión orientadas a transformar datos operacionales en decisiones trazables, priorizadas y económicamente defendibles.
 
-Mediante la integración de:
+El objetivo es reducir incertidumbre operacional mediante sistemas capaces de responder:
 
-- análisis de criticidad de activos  
-- identificación de modos de falla (RCM)  
-- modelado de confiabilidad (Weibull)  
-- cuantificación económica del riesgo  
+* Qué activos intervenir primero.
+* Qué riesgo operacional se está aceptando.
+* Qué consecuencias tendrá postergar una intervención.
+* Cómo equilibrar costo, disponibilidad y exposición al riesgo.
 
 ---
 
-## Qué hago
+## Framework central
 
-- Diseño sistemas de priorización de mantenimiento basados en riesgo  
-- Desarrollo modelos de fallas combinando RCM y análisis probabilístico  
-- Construyo motores de decisión para planificación y operación  
-- Automatizo procesos de análisis en entornos industriales complejos  
-
----
-
-## Líneas de trabajo actuales
-
-- mantenimiento basado en riesgo (Risk-Based Maintenance)  
-- modelado de confiabilidad y probabilidad de falla  
-- optimización de estrategias de mantenimiento  
-- diseño de sistemas de soporte a decisiones (DSS)  
-- aplicación en entornos industriales y acuícolas  
-
----
-
-## Este GitHub
-
-Este espacio documenta el desarrollo de **sistemas de decisión aplicados a mantenimiento**, donde cada proyecto implementa la siguiente lógica:
+Cada proyecto implementa la siguiente lógica decisional:
 
 Datos → Confiabilidad → Riesgo → Optimización → Decisión
 
-Incluye:
+---
 
-- motores de priorización de activos basados en riesgo  
-- modelos de riesgo operacional cuantificado  
-- simuladores de estrategias de mantenimiento  
-- sistemas de decisión con output accionable  
+## Capacidades principales
 
-Cada proyecto está orientado a **reemplazar decisiones heurísticas por decisiones cuantificadas y trazables**.
+* Priorización de activos basada en riesgo operacional y económico.
+* Modelado probabilístico de fallas mediante confiabilidad y Weibull.
+* Diseño de DSS (Decision Support Systems) para mantenimiento.
+* Cuantificación económica de exposición al riesgo.
+* Optimización de estrategias de mantenimiento bajo restricciones operacionales.
+* Automatización de procesos de decisión para entornos industriales complejos.
+
+---
+
+## Líneas de trabajo
+
+* Risk-Based Maintenance (RBM)
+* Reliability Engineering
+* Operational Risk Quantification
+* Asset Criticality Modeling
+* Decision Support Systems (DSS)
+* Maintenance Optimization
+* Industrial & Aquaculture Operations
+
+---
+
+## Repositorios destacados
+
+### Asset Risk Prioritization Engine
+
+Sistema de priorización de activos basado en exposición económica al riesgo.
+
+### Weibull Optimizer
+
+Motor interactivo para modelado de confiabilidad y optimización de mantenimiento preventivo utilizando distribución de Weibull.
+
+### Operational Criticality Matrix
+
+Sistema de evaluación de criticidad operacional para activos físicos.
+
+### Predictive Maintenance Simulator
+
+Simulación de estrategias de mantenimiento bajo incertidumbre y trade-offs costo–riesgo.
+
+### Aquaculture Operational DSS
+
+Sistema de decisión aplicado a operaciones acuícolas, integrando biomasa, variables ambientales y estado de activos.
+
+---
+
+## Filosofía del repositorio
+
+Cada proyecto busca reemplazar decisiones heurísticas por mecanismos cuantificados de priorización operacional.
+
+El foco no está en visualizar datos, sino en estructurar decisiones ejecutables bajo incertidumbre.
 
 ---
 
 ## Stack
 
-Python · SQL · Power BI · GMAO (Fracttal One, Synchroteam, entre otros)
-
----
-
-## Proyectos destacados
-
-- **Asset Risk Prioritization Engine**  
-  Sistema de priorización de activos basado en riesgo económico (P(F) · Impacto).
-
-- **Predictive Maintenance Simulator**  
-  Evaluación de estrategias de mantenimiento bajo incertidumbre y trade-offs costo–riesgo.
-
-- **Aquaculture Operational DSS**  
-  Sistema de decisión que integra variables ambientales, biomasa y estado de activos en piscicultura.
+Python · TypeScript · SQL · Power BI · GMAO
+(Fracttal One, Synchroteam y plataformas de gestión de activos)
 
 ---
 
 ## Contacto
 
-- LinkedIn: https://linkedin.com/in/rolando-suarez-lemus  
-- Email: resl2994@gmail.com
+LinkedIn:
+linkedin.com/in/rolando-suarez-lemus
+
+GitHub:
+github.com/rolando-suarez-lemus
+
+GitHub:
+[github.com/rolando-suarez-lemus](https://github.com/rolando-suarez-lemus?utm_source=chatgpt.com)
