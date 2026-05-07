@@ -97,7 +97,4 @@ LinkedIn:
 linkedin.com/in/rolando-suarez-lemus
 
 GitHub:
-github.com/rolando-suarez-lemus
-
-GitHub:
 [github.com/rolando-suarez-lemus](https://github.com/rolando-suarez-lemus?utm_source=chatgpt.com)
